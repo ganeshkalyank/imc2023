@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* * {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+} */
+
+a, p, div {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, b {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600!important;
+    color: #0492c2!important;
+}
+
+.landing {
+    height: 100vh;
+    background: #7cdeff;
+    background: radial-gradient(circle at right bottom, #7cdeff 0%, #fff 30%);
+}
+
+.hero-image {
+    width: 25%;
+    margin-top: 10vh;
+}
+
+.hero-title {
+    font-weight: 700!important;
+    font-size: 8vw;
+}
+
+.hero-subtitle {
+    color: black!important;
+}
+
+@media only screen and (max-width: 425px) {
+    /* .landing {
+        height: 110vh;
+    } */
+    .hero-image {
+        width: 75%;
+    }
+    
+    .hero-title {
+        font-size: 15vw;
+    }
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+}
+
+.nav-link {
+    border-radius: 8px;
+    font-weight: 500!important;
+}
+
+.navbar-brand {
+    font-weight: 600!important;
+    color: #0492c2!important;
+}
+
+.nav-link:hover {
+    background-color: lightgray;
+}
+
+.btn-primary {
+    background-color: #0492c2!important;
+    border: #0492c2!important;
+    font-family: 'Poppins', sans-serif!important;
+}
+
+.btn-primary:hover {
+    opacity: 0.9;
+}
+
+.break-line {
+    border-bottom: 3px solid #0492c2;
+    width: 10%;
+}
+
+.navbar-toggler {
+    border: none!important;
+    outline: none!important;
+    box-shadow: none!important;
+}
