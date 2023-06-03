@@ -13,13 +13,42 @@ a, p, div {
 h1, h2, h3, h4, h5, h6, b {
     font-family: 'Poppins', sans-serif;
     font-weight: 600!important;
-    color: #0492c2!important;
 }
 
 .landing {
     height: 100vh;
     background: #7cdeff;
     background: radial-gradient(circle at right bottom, #7cdeff 0%, #fff 30%);
+}
+
+.landing h1, .landing h2, .landing h3, .landing h4, .landing h5, .landing h6, .landing b {
+    color: #0492c2!important;
+}
+
+.speakers h1, .speakers h2, .speakers h3, .speakers h4, .speakers h5, .speakers h6, .speakers b {
+    color: #0492c2!important;
+}
+
+.papers {
+    background-color: #0492c2;
+    color: white!important;
+}
+
+.about {
+    background-color: #0492c2;
+    color: white!important;
+}
+
+.organizers h1, .organizers h2, .organizers h3, .organizers h4, .organizers h5, .organizers h6, .organizers b {
+    color: #0492c2!important;
+}
+
+.importantdates h1, .importantdates h2, .importantdates h3, .importantdates h4, .importantdates h5, .importantdates h6, .importantdates b {
+    color: #0492c2!important;
+}
+
+.registration h1, .registration h2, .registration h3, .registration h4, .registration h5, .registration h6, .registration b {
+    color: #0492c2!important;
 }
 
 .hero-image {
