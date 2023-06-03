@@ -108,6 +108,11 @@ h1, h2, h3, h4, h5, h6, b {
 }
 
 .break-line {
+    border-bottom: 3px solid #fff;
+    width: 10%;
+}
+
+.break-line-blue {
     border-bottom: 3px solid #0492c2;
     width: 10%;
 }
@@ -116,4 +121,21 @@ h1, h2, h3, h4, h5, h6, b {
     border: none!important;
     outline: none!important;
     box-shadow: none!important;
+}
+
+.card {
+    border: none!important;
+    outline: none!important;
+    box-shadow: none!important;
+    background-color: #0492c2!important;
+    color: white!important;
+    transition: .3s;
+}
+
+.card h5, .card b {
+    color: white!important;
+}
+
+.card:hover {
+    opacity: 0.9;
 }
