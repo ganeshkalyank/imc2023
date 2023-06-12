@@ -24,3 +24,21 @@ var typewriter = new Typewriter(herotext, {
     ],
     autoStart: true
 });
+
+$(document).ready(function () {
+    $.ajax({
+        url: "/assets/data/speakers.json",
+        type: "GET",
+        dataType: "json",
+        success: function (data) {
+            var html = "";
+            $.each(data, function (key, value) {
+                html += "<div class='col-md-6 col-lg-3 d-flex align-items-stretch'><div class='card w-100'><img src='"+value.imageUrl+"' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>"+value.name+"</h5><p class='card-text'>"+value.position+"<br /><b>"+value.award+"</b></p></div></div></div>";
+            });
+            $("#speakerslist").html(html);
+        },
+        error: function (data) {
+            console.log(data);
+        }
+    });
+});
