@@ -27,7 +27,7 @@ var typewriter = new Typewriter(herotext, {
 
 $(document).ready(function () {
     $.ajax({
-        url: "/assets/data/speakers.json",
+        url: "assets/data/speakers.json",
         type: "GET",
         dataType: "json",
         success: function (data) {
