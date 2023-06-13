@@ -1,21 +1,9 @@
 [
     {
-        "imageUrl": "assets/images/speakers/srinivasavaradhan.jpg",
-        "name": "Prof. S. R. Srinivasa Varadhan",
-        "position": "Professor of Mathematics, Courant Institute of Mathematical Sciences - New York University",
-        "award": "Padma Vibhushan (2023), Abel Prize (2007)"
-    },
-    {
-        "imageUrl": "assets/images/speakers/kirkborne.jpg",
-        "name": "Dr. Kirk Borne",
-        "position": "Chief Science Officer, DataPrime, Inc., Principal Data Scientist, Booz Allen Hamilton, USA",
-        "award": "Ex-NASA Scientist, Worldwide top influencer since 2013."
-    },
-    {
-        "imageUrl": "assets/images/speakers/msraghunathan.jpg",
-        "name": "Prof. Madabusi Santanam Raghunathan",
-        "position": "Head, National Centre for Mathematics, IIT Mumbai",
-        "award": "Padma Shri, Padma Bhushan"
+      "imageUrl": "assets/images/speakers/anishghosh.jpg",
+      "name": "Prof. Anish Ghosh",
+      "position": "School of Mathematics, Tata Institute of Fundamental Research (TIFR), Mumbai",
+      "award": "S S Bhatnagar Award (2021)"
     },
     {
         "imageUrl": "assets/images/speakers/carlocattani.jpg",
@@ -30,28 +18,22 @@
         "award": "Padma Bhushan (2023), Boltzmann Medal (2022)"
     },
     {
-        "imageUrl": "assets/images/speakers/mehdirashidi.jpg",
-        "name": "Prof. Mohammad Mehdi Rashidi",
-        "position": "Professor, University of Electronic Science and Technology of China, China",
-        "award": "15th Khwarizmi International Award (2022)"
+      "imageUrl": "assets/images/speakers/hosseinjafari.jpg",
+      "name": "Dr. Hossein Jafari",
+      "position": "Department of Mathematical Sciences, University of South Africa (UNISA)",
+      "award": "NSTF-South32 Award"
     },
     {
-        "imageUrl": "assets/images/speakers/manindraagarwal.jpg",
-        "name": "Prof. Manindra Agrawal",
-        "position": "Department of Computer Science and Engineering, Indian Institute of Technology, Kanpur",
-        "award": "Padma Shri (2013), TWAS Prize (2010)"
+        "imageUrl": "assets/images/speakers/kirkborne.jpg",
+        "name": "Dr. Kirk Borne",
+        "position": "Chief Science Officer, DataPrime, Inc., Principal Data Scientist, Booz Allen Hamilton, USA",
+        "award": "Ex-NASA Scientist, Worldwide top influencer since 2013."
     },
     {
-      "imageUrl": "assets/images/speakers/sujatharamadorai.jpg",
-      "name": "Prof. Sujatha Ramdorai",
-      "position": "Professor of Mathematics, Canada Research Chair, University of British Columbia, Canada",
-      "award": "Padma Shri (2023), S S Bhatnagar Award (2004)"
-    },
-    {
-      "imageUrl": "assets/images/speakers/Sundar.jpg",
-      "name": "Prof. S. Sundar",
-      "position": "Director, NIT Mizoram",
-      "award": "Alumni Ambassador of the City of Kaiserslautern, Germany"
+        "imageUrl": "assets/images/speakers/msraghunathan.jpg",
+        "name": "Prof. Madabusi Santanam Raghunathan",
+        "position": "Head, National Centre for Mathematics, IIT Mumbai",
+        "award": "Padma Shri, Padma Bhushan"
     },
     {
       "imageUrl": "assets/images/speakers/mahanmj.jpg",
@@ -60,34 +42,16 @@
       "award": "SS Bhatnagar Award, Infosys Prize (2015)"
     },
     {
-      "imageUrl": "assets/images/speakers/santanusaharoy.jpg",
-      "name": "Prof. Santanu Saha Ray",
-      "position": "Department of Mathematics, National Institute of Technology Rourkela",
-      "award": "Fellow of IMA, UK (2018)"
-    },
-    {
-      "imageUrl": "assets/images/speakers/sunilkumar.jpg",
-      "name": "Prof. Sunilkumar",
-      "position": "Professor and Head, Department of Mathematics, NIT Jamshedpur",
-      "award": "Highly Cited Researcher Award-2021 by Clarivate, Web of Science"
-    },
-    {
       "imageUrl": "assets/images/speakers/manimehra.jpg",
       "name": "Prof. Mani Mehra",
       "position": "Professor of Mathematics, IIT Delhi",
       "award": "NASI membership (2020), SERB POWER Fellowship (2021)"
     },
     {
-      "imageUrl": "assets/images/speakers/anishghosh.jpg",
-      "name": "Prof. Anish Ghosh",
-      "position": "School of Mathematics, Tata Institute of Fundamental Research (TIFR), Mumbai",
-      "award": "S S Bhatnagar Award (2021)"
-    },
-    {
-      "imageUrl": "assets/images/speakers/hosseinjafari.jpg",
-      "name": "Dr. Hossein Jafari",
-      "position": "Department of Mathematical Sciences, University of South Africa (UNISA)",
-      "award": "NSTF-South32 Award"
+        "imageUrl": "assets/images/speakers/manindraagarwal.jpg",
+        "name": "Prof. Manindra Agrawal",
+        "position": "Department of Computer Science and Engineering, Indian Institute of Technology, Kanpur",
+        "award": "Padma Shri (2013), TWAS Prize (2010)"
     },
     {
       "imageUrl": "assets/images/speakers/manishgupta.jpg",
@@ -96,10 +60,46 @@
       "award": "Outstanding Innovation Award, Lou Gerstner Award"
     },
     {
+        "imageUrl": "assets/images/speakers/mehdirashidi.jpg",
+        "name": "Prof. Mohammad Mehdi Rashidi",
+        "position": "Professor, University of Electronic Science and Technology of China, China",
+        "award": "15th Khwarizmi International Award (2022)"
+    },
+    {
       "imageUrl": "assets/images/speakers/ponnusamy.jpg",
       "name": "Prof. S. Ponnusamy",
       "position": "Chair Professor, IIT Madras",
       "award": "Director of Center for Functions Theory Problem at Petrozavodsk State University, Russia"
+    },
+    {
+        "imageUrl": "assets/images/speakers/srinivasavaradhan.jpg",
+        "name": "Prof. S. R. Srinivasa Varadhan",
+        "position": "Professor of Mathematics, Courant Institute of Mathematical Sciences - New York University",
+        "award": "Padma Vibhushan (2023), Abel Prize (2007)"
+    },
+    {
+      "imageUrl": "assets/images/speakers/Sundar.jpg",
+      "name": "Prof. S. Sundar",
+      "position": "Director, NIT Mizoram",
+      "award": "Alumni Ambassador of the City of Kaiserslautern, Germany"
+    },
+    {
+      "imageUrl": "assets/images/speakers/santanusaharoy.jpg",
+      "name": "Prof. Santanu Saha Ray",
+      "position": "Department of Mathematics, National Institute of Technology Rourkela",
+      "award": "Fellow of IMA, UK (2018)"
+    },
+    {
+      "imageUrl": "assets/images/speakers/sujatharamadorai.jpg",
+      "name": "Prof. Sujatha Ramdorai",
+      "position": "Professor of Mathematics, Canada Research Chair, University of British Columbia, Canada",
+      "award": "Padma Shri (2023), S S Bhatnagar Award (2004)"
+    },
+    {
+      "imageUrl": "assets/images/speakers/sunilkumar.jpg",
+      "name": "Prof. Sunilkumar",
+      "position": "Professor and Head, Department of Mathematics, NIT Jamshedpur",
+      "award": "Highly Cited Researcher Award-2021 by Clarivate, Web of Science"
     }
 ]
   
