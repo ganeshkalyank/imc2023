@@ -9,6 +9,7 @@ var typewriter = new Typewriter(herotext, {
         "Differential Equations",
         "Wavelet Analysis",
         "Numerical Analysis",
+        "Computational Fluid Dynamics",
         "Graph Theory",
         "Number Theory",
         "Cryptography",
