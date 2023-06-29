@@ -24,22 +24,34 @@
       "award": "NSTF-South32 Award"
     },
     {
+        "imageUrl": "assets/images/speakers/karmeshu.jpg",
+        "name": "Prof. Karmeshu",
+        "position": "Director, Center for Stochastic Modeling and Simulation, JNU, New Delhi",
+        "award": "S S Bhatnagar Prize (1993),  C. M. Jacob Medal"
+    },
+    {
         "imageUrl": "assets/images/speakers/kirkborne.jpg",
         "name": "Dr. Kirk Borne",
         "position": "Chief Science Officer, DataPrime, Inc., Principal Data Scientist, Booz Allen Hamilton, USA",
         "award": "Ex-NASA Scientist, Worldwide top influencer since 2013."
     },
     {
+        "imageUrl": "assets/images/speakers/kumarrajamani.jpeg",
+        "name": "Dr. Kumar Rajamani",
+        "position": "Senior Manager Algorithm, KLA Tencor",
+        "award": "Former Senior Scientist, Philips Research and Research Scientist, GE Global Research"
+    },
+    {
         "imageUrl": "assets/images/speakers/msraghunathan.jpg",
         "name": "Prof. Madabusi Santanam Raghunathan",
         "position": "Head, National Centre for Mathematics, IIT Mumbai",
-        "award": "Padma Shri, Padma Bhushan"
+        "award": "Padma Shri (2001), Padma Bhushan (2012)"
     },
     {
       "imageUrl": "assets/images/speakers/mahanmj.jpg",
       "name": "Prof. Mahan Mj",
       "position": "Professor of Mathematics, Tata Institute of Fundamental Research, Mumbai",
-      "award": "SS Bhatnagar Award, Infosys Prize (2015)"
+      "award": "SS Bhatnagar Award (2011), Infosys Prize (2015)"
     },
     {
       "imageUrl": "assets/images/speakers/manimehra.jpg",
@@ -57,7 +69,7 @@
       "imageUrl": "assets/images/speakers/manishgupta.jpg",
       "name": "Prof. Manish Gupta",
       "position": "Infosys Foundation Chair Professor, IIIT Bangalore",
-      "award": "Outstanding Innovation Award, Lou Gerstner Award"
+      "award": "Outstanding Innovation Award (2010), Lou Gerstner Award (2005)"
     },
     {
         "imageUrl": "assets/images/speakers/mehdirashidi.jpg",
