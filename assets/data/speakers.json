@@ -1,6 +1,6 @@
 [
     {
-      "imageUrl": "assets/images/speakers/anishghosh.jpg",
+      "imageUrl": "assets/images/speakers/anishghosh.png",
       "name": "Prof. Anish Ghosh",
       "position": "School of Mathematics, Tata Institute of Fundamental Research (TIFR), Mumbai",
       "award": "S S Bhatnagar Award (2021)"
@@ -32,7 +32,7 @@
     {
         "imageUrl": "assets/images/speakers/kirkborne.jpg",
         "name": "Dr. Kirk Borne",
-        "position": "Chief Science Officer, DataPrime, Inc., Principal Data Scientist, Booz Allen Hamilton, USA",
+        "position": "Advisor to DataPrime, Inc., Founder and Owner of Data Leadership Group, USA",
         "award": "Ex-NASA Scientist, Worldwide top influencer since 2013."
     },
     {
