@@ -186,3 +186,15 @@ h1, h2, h3, h4, h5, h6, b {
 .table-container {
     white-space: nowrap;
 }
+
+.extension-alert {
+    color: red;
+    font-weight: 600;
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
